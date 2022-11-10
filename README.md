@@ -6,7 +6,7 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 
 [![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)
 
-<h1 align = "center"> Hey! My name is D.Vamsidhar </h1>
+<h1 align = "center"> Hey! My name is Sanskar Sinha </h1>
 
 <h3 align = "center">Love to work in a team.<br> | Explorer | Content Writer | Computer Science Engineer|</br>
 <p> Hey there. Welcome to my github profile</p>
@@ -45,31 +45,31 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 
 
 ## 📊 GitHub Stats:
-![Vamsidhar's Stats](https://github-readme-stats.vercel.app/api?username=dvamsidhar2002&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dvamsidhar2002&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvamsidhar2002&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Sanskar's Stats](https://github-readme-stats.vercel.app/api?username=sanskarsinha7&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanskarsinha7&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsinha7&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dvamsidhar2002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sanskarsinha7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[![dvamsidhar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dvamsidhar2002&theme=xcode)](https://github.com/dvamsidhar2002)
+[![sanskarsinha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanskarsinha7&theme=xcode)](https://github.com/sanskarsinha7)
 
 <hr>
 
 <h1 align="center">You can find me on :-</h1>
 <p align="center">
-  <a href="https://twitter.com/ImVamsi2002">
+  <a href="https://twitter.com/sanskar_sinha7">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white" height=20></a>
-  <a href="https://www.instagram.com/thevamsi2395/">
+  <a href="https://www.instagram.com/sanskar_sinha7/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" height=20></a>
-  <a href="https://www.facebook.com/dvamsidhar">
+  <a href="https://www.facebook.com/sanskar.sinha.524">
     <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=plastic&logo=facebook&logoColor=white" height=20></a>
-  <a href="https://stackoverflow.com/users/19970419/d-vamsidhar">
+  <a href="https://stackoverflow.com/users/19970419/sanskar-sinha">
     <img src="https://img.shields.io/badge/Stack Overflow-%23F48024.svg?&style=plastic&logo=stackoverflow&logoColor=white" height=20></a>
-  <a href="https://www.linkedin.com/in/dvamsidhar5932200802/">
+  <a href="https://www.linkedin.com/in/sanskar-sinha-b97661193/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=plastic&logo=linkedin&logoColor=white" height=20></a>
-  <a href="https://www.hackerrank.com/dvamsidhar">
+  <a href="https://www.hackerrank.com/sanskarsinha52415">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/dvamsidhar2002)
+![Profile views](https://gpvc.arturio.dev/sanskarsinha7)
