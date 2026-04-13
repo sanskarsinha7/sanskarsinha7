@@ -40,13 +40,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskarsinha7&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://streak-stats.demolab.com/?user=sanskarsinha7&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sanskarsinha7&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarsinha7&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
+---
+
+### 💬 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsinha7&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+</p>
 ---
 
 ### 🏅 Trophies
