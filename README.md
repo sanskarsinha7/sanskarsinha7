@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskarsinha7&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarsinha7&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=sanskarsinha7&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 ### 🏅 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanskarsinha7&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanskarsinha7&theme=nord&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
